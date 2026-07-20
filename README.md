@@ -21,4 +21,4 @@ Performance, simplicity, security, and maintainability.
 ## Contact
 
 - Email: pericsq@icloud.com
-- LinkedIn: linkedin.com/in/0x8964 
+- Discord: 0x8964
