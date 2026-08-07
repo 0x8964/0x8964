@@ -1,4 +1,4 @@
-# 0x8964 | Full-Stack Software Engineer 👨‍💻
+# 0x8964 (pericsq) | Full-Stack Software Engineer 👨‍💻
 
 Building reliable software that is fast, secure, and easy to maintain.
 
